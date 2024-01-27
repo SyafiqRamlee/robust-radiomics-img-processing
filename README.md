@@ -4,6 +4,9 @@ Data repository for the study and manuscript titled "Mitigating the impact of im
 
 
 ## Folder structure
+
+Plots generated for this study have been segregated according to the image processing scheme, cancer type, and algorithm considered, as per the folder structure below:
+
 ```
 📦 main
 ├─ discretisation
